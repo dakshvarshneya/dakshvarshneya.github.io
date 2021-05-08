@@ -30,8 +30,7 @@
 	.c-logo-part ul li a img{ display:block;}
 	.form{ margin:0;}
 	.contact-info-box{ margin:0 ;}
-	.social-link{ margin:0;}
-	
+	.social-link{ margin-left:7em;}
 	.main-nav{ display:block !important; }
 	.main-nav li a{ padding:8px 15px;}
 }
@@ -63,7 +62,7 @@
 	.business-talking h2{ font-size:36px;}
 	.contact-info-box{ margin:0 0 12px 30px; font-size:12px;}
 	.contact-info-box span{ line-height:18px;}
-	.social-link{ margin-left:30px;} 
+	.social-link{ margin-left:34%;} 
 	.form{ margin:0 30px;}
 	.copyright{ font-size:12px;}
 	.business-talking a{ padding:10px 25px; font-size:14px;}
@@ -79,7 +78,7 @@
 	/****Mobile Portrait 320 ****/
 	.contact-info-box{ margin-left:0px;}
 	.header{ padding:40px;}
-	.social-link{ margin-left:0px;}
+	.social-link{ margin-left:19%;}
 	.form{ margin:0}
 	.c-logo-part ul li{ display:block;}
 	.Portfolio-box{  max-width:300px !important; width:96.4% !important; margin:0 !important}

@@ -407,7 +407,7 @@ img {
 }
 .social-link{
 	padding:35px 0;
-	margin:0 0 0 68px;
+	margin:0 0 0 11.8em;
 	display:block;
 	overflow:hidden;
 	list-style:none;
@@ -431,20 +431,28 @@ img {
 .social-link li a:hover, .social-link li a:focus{
 	text-decoration:none;
 }
+.resume-download{
+	padding:35px 0;
+	display:block;
+	align-content: center;
+	text-align: center;
+	overflow:hidden;
+	list-style:none;
+}
 .twitter a:hover {
-	background: #55acee;
+	background: #55e4ee;
 }
 .facebook a:hover {
 	background: #3b5998;
 }
 .github a:hover {
-	background: #cb2026;
+	background: #1db66f;
 }
-.gplus a:hover {
+.envelope a:hover {
 	background: #dd4b39;
 }
 .linkedin a:hover {
-	background: #ea4c89;
+	background: #42c9c2;
 }
 
 .form{
